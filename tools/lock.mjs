@@ -34,7 +34,7 @@ const page = `<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="robots" content="noindex,nofollow">
 <title>Controlled Surrender</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap">
 <style>
 :root{--bg:#F5F2EB;--ink:#141311;--stone:#6E6A63;--hair:rgba(20,19,17,.14);--bad:#B23A2E}
 @media (prefers-color-scheme:dark){:root{--bg:#0D0E11;--ink:#F2EFE9;--stone:#918D86;--hair:rgba(242,239,233,.16);--bad:#F0604F;color-scheme:dark}}
@@ -42,11 +42,11 @@ const page = `<!doctype html>
 body{margin:0;min-height:100dvh;display:grid;place-items:center;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,sans-serif;padding:24px max(20px,env(safe-area-inset-right,0px)) 24px max(20px,env(safe-area-inset-left,0px))}
 main{width:min(100%,30rem);display:grid;gap:22px}
 .mono{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--stone)}
-h1{font-family:"Instrument Serif","Iowan Old Style",serif;font-weight:400;font-size:clamp(2.8rem,9vw,4.4rem);line-height:.98;letter-spacing:-.025em;margin:0;text-wrap:balance}
+h1{font-family:"DM Serif Display","Iowan Old Style",serif;font-weight:400;font-size:clamp(2.5rem,8vw,3.9rem);line-height:1.04;letter-spacing:-.012em;margin:0;text-wrap:balance}
 h1 em{font-style:italic}
 form{display:grid;gap:14px;border-top:1px solid var(--ink);padding-top:20px}
 label{display:grid;gap:8px}
-input{font-family:"Instrument Serif",serif;font-size:1.6rem;color:var(--ink);background:none;border:0;border-bottom:1px solid var(--ink);border-radius:0;padding:6px 0;width:100%}
+input{font-family:"DM Serif Display",serif;font-size:1.6rem;color:var(--ink);background:none;border:0;border-bottom:1px solid var(--ink);border-radius:0;padding:6px 0;width:100%}
 input:focus-visible,button:focus-visible{outline:2px solid #2E5BFF;outline-offset:4px}
 button{justify-self:start;font-family:"JetBrains Mono",ui-monospace,monospace;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--bg);background:var(--ink);border:1px solid var(--ink);border-radius:999px;padding:11px 20px;cursor:pointer}
 button[disabled]{opacity:.5;cursor:default}

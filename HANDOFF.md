@@ -35,7 +35,7 @@ These come from Anto's original prompt and held throughout.
 - **Controls are bespoke editorial instruments.** No default sliders, stock modals or crowded boxes.
 - **The science is graded honestly.** A claim carries the badge its evidence earns, even when that makes the story less tidy.
 
-Visual system: gallery paper `#F5F2EB` and charcoal `#141311`, with a Dark Studio mode on obsidian `#0D0E11`. Instrument Serif for display, Inter for body, JetBrains Mono for telemetry and citations. Six circuit colours: cobalt, amber, vermilion, violet, teal, emerald. Hairline rules, film grain at 3%.
+Visual system: gallery paper `#F5F2EB` and charcoal `#141311`, with a Dark Studio mode on obsidian `#0D0E11`. DM Serif Display for display (switched from Instrument Serif on 25 November 2026), Inter for body, JetBrains Mono for telemetry and citations. Six circuit colours: cobalt, amber, vermilion, violet, teal, emerald. Hairline rules, film grain at 3%.
 
 ## Decisions Anto made
 
